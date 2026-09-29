@@ -181,9 +181,19 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## ⭐ Contributing
+## 🤝 Contributing
 
-Suggestions, improvements, bug fixes, and new examples are welcome.
+Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
-If you find this repository useful, consider giving it a ⭐ on GitHub.
+---
+
+<div align="center">
+
+⭐ If you find this repository useful, please consider giving it a star! ⭐
+
+Made with ❤️ by [kasraSMD](https://github.com/kasraSMD)
+
+</div>
+
+
 
