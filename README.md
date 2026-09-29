@@ -138,6 +138,7 @@ jupyter notebook
 
 Then open any of the `.ipynb` files and run the cells sequentially.
 
+> ☁️ **No local setup?** Upload any notebook to [Google Colab](https://colab.research.google.com/) and run it there with a free GPU.
 ---
 
 ## 🛠️ Technologies
