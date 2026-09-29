@@ -1,4 +1,3 @@
-# RNNs
 # Recurrent Neural Networks (RNNs)
 
 A practical collection of **Recurrent Neural Network (RNN)** examples and experiments implemented with deep learning frameworks.
